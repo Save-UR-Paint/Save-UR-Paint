@@ -4,4 +4,4 @@ Disallow: /Video/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://save-ur-paint.pages.dev/sitemap.xml
