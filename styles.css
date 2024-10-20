@@ -70,8 +70,15 @@ footer {
 }
 
 <style>
+  .center-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;    /* Centers vertically (optional) */
+    height: 100vh;          /* Full height of the viewport (optional) */
+  }
+
   a {
-    color: white;       /* Change text color to white */
+    color: white;          /* Change text color to white */
     text-decoration: none; /* Remove underline */
   }
 </style>
